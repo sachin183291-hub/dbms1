@@ -1,0 +1,9 @@
+{
+  "name": "Digital Krishi Officer - AI Farmer Advisory System",
+  "description": "An AI-powered agricultural advisory platform designed to provide personalized farming advice, manage farmer queries, and support agricultural officers in decision-making.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
